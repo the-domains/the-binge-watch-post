@@ -1,4 +1,5 @@
-layout_spectrum: 1
+layout_spectrum: 0.5944351
+typography_spectrum: 0.5382205
 color:
   saturation: 0.7239854
   lightness: 0.5121533
@@ -10,5 +11,4 @@ color:
     - '#6CB6CE'
     - '#C7C7C7'
   rhythmicContrast: 0.6160287
-typography_spectrum: 0.5382205
 name: The binge.watch Post
