@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The binge.watch Post]]></title>
+        <description><![CDATA[The binge.watch Post]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 06 Aug 2016 17:43:14 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Is VR becoming mainstream already?]]></title>
+            <description><![CDATA[<article><h1>Is VR becoming mainstream already?</h1><p>For decades, porn has been blamed for creating unrealistic sexual expectations, and for some addicts, it's impacted the ability to have healthy sexual relationships in the real world. Now one adult entertainment company is using virtual reality - and one of the hottest porn stars out there - to teach guys how to have better sex, both for their own benefit and the benefit of their partner.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/01eb5c97e3363d4868b5255422e9da6f/noop.jpg?input=http%3A%2F%2Fimg.wennermedia.com%2Fsocial%2Fvr_lindseybyrnes_rs_nyl_9669-32f8cbc5-802e-413f-b2eb-5d334d06dacf.jpg"></article>]]></description>
+            <link>http://www.rollingstone.com/culture/features/virtual-reality-sex-edutainment-is-revolutionizing-porn-w432811?utm_content=buffer5428a&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer</link>
+            <guid isPermaLink="false">f0d7fb6b-0089-4f66-aecd-f6a2eaab44cf</guid>
+            <pubDate>Sat, 06 Aug 2016 17:43:12 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
