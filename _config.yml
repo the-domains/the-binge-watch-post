@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.7239854
+  lightness: 0.5121533
+  brandStrength: 0.1992846
+  brandColors:
+    - '#FFFFFF'
+    - '#000000'
+    - '#8B8B8B'
+    - '#6CB6CE'
+    - '#C7C7C7'
+  rhythmicContrast: 0.6160287
+typography_spectrum: 0.5382205
+name: The binge.watch Post
